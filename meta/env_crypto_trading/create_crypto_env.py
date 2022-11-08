@@ -10,7 +10,7 @@ sys.path.insert(0, "FinRL-Meta")
 
 import os
 
-os.chdir("FinRL-Meta")
+#os.chdir("FinRL-Meta")
 
 from meta.data_processor import DataProcessor
 from meta.env_crypto_trading.env_multiple_crypto import CryptoEnv
